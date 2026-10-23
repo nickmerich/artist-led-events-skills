@@ -1,0 +1,14 @@
+type,category,item,qty,unit_amount,basis,status,source
+cost,venue,Park permit,1,150,fixed,estimate,Hypothetical
+cost,insurance,Event rider and additional insured,1,250,fixed,estimate,Hypothetical
+cost,music,Public performance license,1,100,fixed,estimate,Hypothetical
+cost,medical,Medical staffing,1,400,fixed,estimate,Hypothetical
+cost,operations,Restrooms,2,175,fixed,estimate,Hypothetical
+cost,operations,Signage and cones,1,200,fixed,estimate,Hypothetical
+cost,participant,Numbered card and wristband,1,3,per_participant,estimate,Hypothetical
+cost,participant,Water refill supplies,1,1,per_participant,estimate,Hypothetical
+cost,volunteers,Crew shirts and breakfast,1,300,fixed,estimate,Hypothetical
+cost,content,Photographer,1,600,fixed,estimate,Hypothetical
+cost,contingency,Contingency,1,300,fixed,estimate,Hypothetical
+revenue,partner,Access partner,1,2500,fixed,estimate,Hypothetical
+revenue,partner,Coffee partner (cash portion),1,500,fixed,estimate,Hypothetical
