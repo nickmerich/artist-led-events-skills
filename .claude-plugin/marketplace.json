@@ -1,0 +1,50 @@
+{
+  "name": "artist-led-events-skills",
+  "owner": {
+    "name": "Nick Merich",
+    "email": "nick@gryt.club",
+    "url": "https://grytrunclub.com"
+  },
+  "metadata": {
+    "description": "Agent skills for producing artist-led athletic events: format, deal terms, budget, sponsors, permits, run of show, recap. By GRYT Run Club.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "artist-led-events-skills",
+      "description": "Agent skills for producing artist-led athletic events: format, deal terms, budget, sponsors, permits, run of show, recap. By GRYT Run Club.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Nick Merich",
+        "email": "nick@gryt.club"
+      },
+      "homepage": "https://github.com/nickmerich/artist-led-events-skills",
+      "repository": "https://github.com/nickmerich/artist-led-events-skills",
+      "license": "MIT",
+      "keywords": [
+        "agent-skills",
+        "skill-md",
+        "events",
+        "music",
+        "sponsorship"
+      ],
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/artist-deal-terms",
+        "./skills/artist-fit-and-concept",
+        "./skills/content-capture-and-rights",
+        "./skills/event-budget-pnl",
+        "./skills/event-producer",
+        "./skills/launch-campaign",
+        "./skills/permits-insurance-and-risk",
+        "./skills/recap-and-sponsor-report",
+        "./skills/registration-and-capacity",
+        "./skills/run-of-show-and-staffing",
+        "./skills/sponsor-inventory-and-pricing",
+        "./skills/sponsor-outreach-and-close",
+        "./skills/sport-format-design"
+      ]
+    }
+  ]
+}

@@ -54,14 +54,23 @@ Each lives in [`skills/sport-format-design/references/sports/`](skills/sport-for
 
 Skills follow the open [Agent Skills format](https://agentskills.io/specification): a folder with a `SKILL.md` that has `name` and `description` frontmatter.
 
+**Claude Code, one command:**
+
+```
+/plugin marketplace add nickmerich/artist-led-events-skills
+/plugin install artist-led-events-skills@artist-led-events-skills
+```
+
+**Any agent that reads `SKILL.md`** (Claude apps, Codex, Cursor, Gemini CLI, Copilot, Perplexity):
+
 ```bash
-git clone <this repo>
-# Claude Code / Claude apps: copy or symlink skills into your skills directory
+git clone https://github.com/nickmerich/artist-led-events-skills
+# Copy or symlink skills into your skills directory
 cp -r skills/* ~/.claude/skills/
 # Any other agent: point it at the skills/ folder, or paste a SKILL.md into context
 ```
 
-Validate after editing:
+Validate after editing (every skill also passes `skills-ref validate` from the [Agent Skills reference library](https://github.com/agentskills/agentskills)):
 
 ```bash
 python3 scripts/validate_skills.py
