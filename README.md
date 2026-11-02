@@ -28,6 +28,7 @@ Built by [GRYT Run Club](https://grytrunclub.com) from producing weekly communit
 | 10 | [`run-of-show-and-staffing`](skills/run-of-show-and-staffing/SKILL.md) | Roles, ratios, volunteer briefs, minute-by-minute run of show, radio plan. |
 | 11 | [`content-capture-and-rights`](skills/content-capture-and-rights/SKILL.md) | Shot list, releases, music rights in video, minors, approvals. |
 | 12 | [`recap-and-sponsor-report`](skills/recap-and-sponsor-report/SKILL.md) | Verified recap, sponsor report, renewal ask, and the return-rate follow-up. |
+| 13 | [`press-and-media`](skills/press-and-media/SKILL.md) | Earn press and podcast coverage: proof table, cleared quotes, one angle per outlet type, stated pitch routes, replies tracked instead of sends. |
 
 ## Sports covered
 
@@ -47,6 +48,7 @@ Each lives in [`skills/sport-format-design/references/sports/`](skills/sport-for
 - [12-week production timeline](workflows/12-week-production-timeline.md)
 - [Go/no-go gates](workflows/go-no-go-gates.md)
 - [Day-of command checklist](workflows/day-of-command.md)
+- [Press activation by market](workflows/press-activation-by-market.md): home market, event markets, national layer
 - [Worked example: a hypothetical artist 5K, start to finish](examples/hypothetical-artist-5k.md)
 - [Evidence rules](docs/evidence-rules.md): how every skill separates facts, assumptions, and asks
 

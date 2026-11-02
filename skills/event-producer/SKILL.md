@@ -34,12 +34,13 @@ Then place the event in a phase.
 | 4. Money | Budget, break-even, partner inventory | `event-budget-pnl`, `sponsor-inventory-and-pricing` | Funded or explicitly self-funded at the minimum viable version |
 | 5. Permission | Permits, insurance, medical, weather plan | `permits-insurance-and-risk` | Permit or written venue OK, COI issued, medical plan named |
 | 6. Launch | Fill it with the right people | `registration-and-capacity`, `launch-campaign` | Registration tested end to end; announcement approved by artist |
+| 6b. Press | Earn coverage without overclaiming | `press-and-media` | Proof table built; artist quote requests sent; outlet log started |
 | 7. Partners | Close and prep activations | `sponsor-outreach-and-close` | Signed partner terms; deliverables list |
 | 8. Operations | Staff, run of show, comms | `run-of-show-and-staffing`, `content-capture-and-rights` | Staffed to plan; briefing sent; run of show final |
 | 9. Day of | Execute | `workflows/day-of-command.md` | Event ends with an incident log, even if empty |
-| 10. Recap | Prove it, report it, set up the next one | `recap-and-sponsor-report` | Sponsor reports sent; return follow-up scheduled |
+| 10. Recap | Prove it, report it, set up the next one | `recap-and-sponsor-report`, `press-and-media` | Sponsor reports sent; recap sent to outlets that replied; return follow-up scheduled |
 
-Use `workflows/12-week-production-timeline.md` for dates and `workflows/go-no-go-gates.md` for gate criteria.
+Use `workflows/12-week-production-timeline.md` for dates, `workflows/go-no-go-gates.md` for gate criteria, and `workflows/press-activation-by-market.md` when producing in more than one city.
 
 ## Gates you never skip
 
