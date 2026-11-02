@@ -85,3 +85,7 @@ These skills tell you what to ask and who to ask. Permit authorities, your insur
 ## Contributing
 
 Add a sport, fix a skill, share what broke on your event day. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
